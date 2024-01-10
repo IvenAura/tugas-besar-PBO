@@ -1,3 +1,9 @@
+Nama  : Iven Aurananta Damaivila
+NIM   : 32602200013
+Kelas : Teknik Informatika A 22
+
+KALKULATOR
+
 1. Encapsulation
 Kelas Kalkulator :
 Encapsulation diterapkan dengan membuat function submitActionPerformed menjadi private.
