@@ -1,6 +1,4 @@
-Nama  : Iven Aurananta Damaivila
-NIM   : 32602200013
-Kelas : Teknik Informatika A 22
+Iven Aurananta Damaivila (32602200013)
 
 KALKULATOR
 
